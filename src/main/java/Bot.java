@@ -12,7 +12,7 @@ public class Bot
     public static void main(String args[]) throws Exception
     {
         JDABuilder builder = new JDABuilder((AccountType.BOT));
-        builder.setToken("NjkyMjA2NDMwNjc3MTA2NzM5.XnrKLg.atIpvd4DNYS1-_IP8EhjRcftop4");
+        builder.setToken("NjkyMjA2NDMwNjc3MTA2NzM5.Xnrajw.KFF_1y-GO8pjH53eQp0uOwi59Uc");
         JDA jda =  builder.build();
         jda.addEventListener(new HelloEvent());
     }
