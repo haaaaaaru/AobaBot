@@ -11,7 +11,7 @@ public class Bot
 {
     public static void main(String args[]) throws Exception
     {
-        JDA builder = new JDABuilder("NjkyMjI5MjcxODcxMTYwMzUy.Xnwxtg.ednu1ux0YfWnOZccRqR7h8Na5as").build();
+        JDA builder = new JDABuilder("NjkyMjI5MjcxODcxMTYwMzUy.Xnw35Q.-txsZcXexEFzLDgN0Lu4iHHTE4I").build();
         //저 token을 자기 봇 토큰으로 변경할것
         builder.getPresence().setStatus(OnlineStatus.IDLE);
         builder.getPresence().setActivity(playing("!아오바 도움말 | "));

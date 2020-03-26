@@ -8,15 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ad7fd089-f238-49a4-acb6-38927b261f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haru301/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Crawler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/events/CommandBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haru301/events/CommandBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/events/GuildMessageReceived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haru301/events/GuildMessageReceived.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Bot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Crawler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/events/CommandBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/events/GuildMessageReceived.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IslaBot_jar/Start.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/IslaBot_jar/Start.vbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haru301/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haru301/Bot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,22 +103,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585197394892" />
-    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1585197624264">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1585199126952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585197624264" />
-    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1585197624264">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585199126952" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1585199126952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585197624264" />
-    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1585197624264">
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585199126952" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1585199126952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585197624264" />
-    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1585197624264">
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585199126952" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1585199126952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585197624264" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585199126952" />
     <state width="1877" height="323" key="GridCell.Tab.1.bottom" timestamp="1585131267965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585198102546" />
-    <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585197732861">
+    <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585198945196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585197732861" />
+    <state x="664" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585198945196" />
     <state x="339" y="224" key="new project wizard" timestamp="1585111010493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
