@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7fd089-f238-49a4-acb6-38927b261f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/events/HelloEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/events/HelloEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/events/HelloEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/events/GuildMessageReceived.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Bot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Bot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/events/HelloEvent.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZbQYBVTbv33xFWtOtMauDLiQck" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,9 +45,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/net/dv8tion/JDA/4.1.1_124/JDA-4.1.1_124.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
@@ -75,49 +82,71 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1585106293051">
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1585147898845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585106293051" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585112743318">
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585147898845" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1585159382997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585112743318" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585112743317">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585159382997" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1585159382997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585112743317" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585112743317">
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585159382997" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1585159382997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585112743317" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585112743317">
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585159382997" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1585159382997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585112743317" />
-    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1585108006620">
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585159382997" />
+    <state width="1877" height="323" key="GridCell.Tab.1.bottom" timestamp="1585131267965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585108006620" />
-    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1585108006620">
+    <state width="1877" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585131267965" />
+    <state width="1877" height="323" key="GridCell.Tab.1.center" timestamp="1585131267965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585108006620" />
-    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1585108006620">
+    <state width="1877" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585131267965" />
+    <state width="1877" height="323" key="GridCell.Tab.1.left" timestamp="1585131267965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585108006620" />
-    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1585108006620">
+    <state width="1877" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585131267965" />
+    <state width="1877" height="323" key="GridCell.Tab.1.right" timestamp="1585131267965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585108006620" />
+    <state width="1877" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585131267965" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1585146395870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585146395870" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1585106320444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585106320444" />
+    <state x="664" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585147676144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585147676144" />
     <state x="339" y="224" key="new project wizard" timestamp="1585111010493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585111010493" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/net/dv8tion/JDA/3.8.0_436/JDA-3.8.0_436.jar!/net/dv8tion/jda/core/hooks/ListenerAdapter.class</url>
+          <line>248</line>
+          <properties class="net.dv8tion.jda.core.hooks.ListenerAdapter" method="onSelfUpdateVerified">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
